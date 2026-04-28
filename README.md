@@ -1,8 +1,22 @@
-# 🏡 Housing Intelligence Pipeline: California Price Analysis & Feature Engineering
+<h1 align="center" style="font-size: 50px;">
+🏡 Housing Intelligence Pipeline
+</h1>
+
+<p align="center" style="font-size: 20px;">
+California Price Analysis & Feature Engineering
+</p>
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ---
 
@@ -98,7 +112,7 @@ This project looks at:
 
 ---
 
-## 📦 Deliverables
+## Deliverables
 
 - **Engineered Dataset**  
   - `engineered_housing.csv` (ready for modeling)
